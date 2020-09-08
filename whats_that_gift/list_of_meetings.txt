@@ -1,0 +1,59 @@
+2020    ZOOM
+2019    Seoul SK
+2018    Reims FR
+2017    Miami FL USA
+2016    Singapore
+2015    Ljubljana Slovenia
+2014    Boston MA USA
+2013    Chongqing CH
+2012    Valencia Spain
+2011    Quebec City
+2010    Perth Western Australia
+2009    Padova Italy
+2008    Morgantown WV USA
+2007    Hyderabad India
+2006    Fontevraud France
+2005    Glasgow UK
+2004    Puerto Rico USA
+2003    Nagoya Japan
+2002    Leuven, Belgium
+2001    Manoir de Sables, Orford, Quebec., Canada
+2000    Sydney Australia
+1999    Eilat, Israel
+1998    Hradec Králové, Czech Republic
+1997    Monteret, California USA
+1996    Tubingen Germany
+1995    Athens Greece
+1994    Banff Canada
+1993    Vienna Austria
+1992    Chiba, Japan
+1991    Oxford UK
+1990    Guanzhou, China
+1989    Dresden, GDR
+1988    Lisbon Portugal
+1987    Sarasota Florida
+1986    Palermo Italy
+1985    Mie Japan
+1984    Stockholm Sweden
+1983    Budapest Hungary
+1982    Iowa City Iowa USA
+1981    Zurich Switzerland
+1980    Amsterdam Netherlands
+1979    Erfurt East Germany
+1978    Morioka, Japan
+1977    Ghent Belgium
+1976    Louisville Kentucky USA
+1975    Kibbutz Ginosar, Israel
+1974    Clermont Ferrand, France
+1973    Bad Nauheim, West Germany
+1972    Los Angeles, California USA
+1971    Brighton England
+1970    Pisa, Italy
+1969    Istanbul, Turkey
+1968    Erfurt, East Germany
+1967    Ghent Belgium
+1966
+1965    Hakone Japan
+1964    Chicago IL USA
+1963    Rotterdam Netherlands
+1962    Stockholm Sweden
