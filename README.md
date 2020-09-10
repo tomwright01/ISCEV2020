@@ -17,7 +17,7 @@ Answers [text](treasure_hunt_answers.txt)
  
 ### Funny photos.
 
-Photos [pptx download](Presentation1.pptx)
+Photos [pptx download](funny_photos/Presentation1.pptx)
   
 ### Talent show.
 
